@@ -168,3 +168,43 @@ Example:
 
 git remote -v
 
+## Git Branching Practice
+
+
+
+\### Create a new branch
+
+git switch -c feature/example
+
+
+
+\### List branches
+
+git branch
+
+
+
+\### Push a branch to GitHub
+
+git push -u origin feature/example
+
+
+
+\### Check repository status
+
+git status
+
+
+
+\### View commit history
+
+git log --oneline
+
+
+
+\### Conclusion
+
+Git branches allow developers to work on separate features without
+
+making changes directly to the main branch.
+
