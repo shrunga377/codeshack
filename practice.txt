@@ -13,3 +13,4 @@ Commands practised:
 8. git log - View commit history.
 9. git diff - View changes.
 10. git branch - View branches.
+The git diff command helps me see changes before committing them.
