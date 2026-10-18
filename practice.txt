@@ -1,0 +1,15 @@
+GIT PRACTICE
+
+I am learning Git and GitHub command-line operations.
+
+Commands practised:
+1. git init - Initialize a repository.
+2. git status - Check the repository status.
+3. git add - Stage changes.
+4. git commit - Save changes in Git history.
+5. git push - Upload commits to GitHub.
+6. git pull - Fetch and integrate remote changes.
+7. git fetch - Download remote updates.
+8. git log - View commit history.
+9. git diff - View changes.
+10. git branch - View branches.
