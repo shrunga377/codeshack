@@ -1,0 +1,33 @@
+GIT AND GITHUB CLI ASSIGNMENT
+
+1. GIT BASICS
+Learn and practise the following Git commands:
+- git init
+- git clone
+- git status
+- git add
+- git commit
+- git log
+- git diff
+- git push
+- git pull
+- git fetch
+
+2. BRANCHING
+- Create feature branches.
+- Make changes and push them to GitHub.
+- Each team member must have a separate branch in the team repository.
+- Direct commits to the main branch are not allowed.
+
+3. COMMIT DISCIPLINE
+- Make at least 4 meaningful commits in the individual repository.
+- Use descriptive commit messages.
+
+4. DOCUMENTATION
+- Create a README.md file.
+- Create a git-notes.md file.
+- Explain at least 10 useful Git commands with examples.
+
+5. TOOLS
+- Use Git CLI only.
+- Do not use GitHub Desktop or other graphical Git clients.
